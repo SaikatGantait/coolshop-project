@@ -1,10 +1,12 @@
-Sure! Here's a **README.md** for your full-stack `coolshop` project. You can copy and paste it into a new `README.md` file in your project root.
+Certainly! Here's an updated version of the README with the note that the project is still a work in progress:
 
 ---
 
 # CoolShop Full-Stack Application
 
 Welcome to the CoolShop project! This is a full-stack application built with a **Spring Boot** backend and **React** frontend. It's a simple e-commerce platform with user authentication and protected routes.
+
+**Note**: This project is currently **a work in progress**. Some features are still being developed and may be subject to change.
 
 ## 🛠️ Technologies Used
 
@@ -136,7 +138,7 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 
 ---
 
- Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature`)
@@ -146,10 +148,10 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 
 ---
 
- License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Let me know if you'd like to add or change anything!
+Let me know if you'd like to add or change anything else!
